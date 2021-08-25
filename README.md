@@ -1,2 +1,2 @@
-# list of projects worked around opencv module 
+# opencv projects
 
