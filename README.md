@@ -1,2 +1,2 @@
-# programs made using opencv module
-
+# opencv
+programs and projects constructed using opencv module
